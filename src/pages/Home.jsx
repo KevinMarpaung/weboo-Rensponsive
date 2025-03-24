@@ -46,7 +46,7 @@ const Home = () => {
     <>
       <div className="bg-[#1c272c] md:h-screen">
         <div className="md:mx-60  ">
-          <div className="p-6">
+          <div className="p-2">
             <Header></Header>
           </div>
           <Input data={animesData}></Input>

@@ -38,7 +38,7 @@ export default function RightBar() {
               <p className="italic  md:px-10 px-2 pb-2">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Distinctio, similique nostrum odio fugit assumenda quae vel
-                inventore facilis perferendis nisi, minima ipsam
+                inventore f
               </p>
             </div>
           </>
